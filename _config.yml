@@ -52,4 +52,3 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-plantuml
