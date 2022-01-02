@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Let's dive in to the world of Jekyll universe. 
+Let's dive into the world of Jekyll universe. 
