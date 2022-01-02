@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Tech Blog
+longtitle:        a Blog of Tech Guy
+author:           Tuna Ayan
+email:            tunayan@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  The tech topics which I am interested about
 
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://tunayan.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          '/blog'
 rss:              RSS
 
 toc:
@@ -52,3 +52,4 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-plantuml
